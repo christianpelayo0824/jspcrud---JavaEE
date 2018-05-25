@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+#myform {
+	margin: auto;
+	width: 400;
+	margin-top: 10%;
+}
+
+button {
+	width: 400;
+}
